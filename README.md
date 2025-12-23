@@ -1,6 +1,6 @@
 # To-Do List Application
 
-Простое и эффективное консольное приложение для управления задачами, написанное на Python.
+Простое и эффективное консольное приложение для управления задачами на Python.
 
 ![Version](https://img.shields.io/badge/version-0.08-blue)
 ![Python](https://img.shields.io/badge/python-3.8+-green)
