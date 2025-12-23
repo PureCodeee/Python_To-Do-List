@@ -1,6 +1,6 @@
 import json, sys, os
 
-version = 0.007
+version = 0.08
 os.system('cls' if os.name == 'nt' else 'clear')
 print(f'To-Do List alpha version {version}')
 
